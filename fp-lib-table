@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Techdroid")(type "KiCad")(uri "${KIPRJMOD}/footprints/Techdroid.pretty")(options "")(descr ""))
+)
